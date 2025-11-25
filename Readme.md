@@ -3,39 +3,40 @@
 <ul>
   <li><a href="#l1t1">Level 1 Term 1</a></li>
   <li><a href="#l1t2">Level 1 Term 2</a></li>
-  <li><a href="#l1t2">Level 2 Term 1</a></li>
-  <li><a href="#l1t2">Level 2 Term 2</a></li>
-  <li><a href="#l1t2">Level 3 Term 1</a></li>
-  <li><a href="#l1t2">Level 3 Term 2</a></li>
-  <li><a href="#l1t2">Level 4 Term 1</a></li>
-  <li><a href="#l1t2">Level 4 Term 2</a></li>
+  <li><a href="#l2t1">Level 2 Term 1</a></li>
+  <li><a href="#l2t2">Level 2 Term 2</a></li>
+  <li><a href="#l3t1">Level 3 Term 1</a></li>
+  <li><a href="#l3t2">Level 3 Term 2</a></li>
+  <li><a href="#l4t1">Level 4 Term 1</a></li>
+  <li><a href="#l4t2">Level 4 Term 2</a></li>
 
 </ul>
 
 <h2 id="l1t1">Level 1 Term 1</h2>
-<a href="https://github.com/your/repo">CSE 102 Structured Program Sessional</a>
+<a href="https://github.com/dhar-arpita/CSE-102-Structured-Programming-Language">CSE 102 Structured Program Sessional</a>
+<\br>
 
 <h2 id="l1t2">Level 1 Term 2</h2>
-<a href="https://github.com/your/repo2">CSE 106 DSA Part_I</a>
-<a href="https://github.com/your/repo2">CSE 108 Object Oriented Programming</a>
+<a href="https://github.com/dhar-arpita/CSE-106-Data-Structure-and-Algorithm_I">CSE 106 DSA Part_I</a><\br>
+<a href="https://github.com/dhar-arpita/CSE-108-Object-Oriented-Programming">CSE 108 Object Oriented Programming</a><\br>
 
 
 <h2 id="l2t1">Level 2 Term 1</h2>
-<a href="https://github.com/your/repo2">CSE 208 DSA Part_II</a>
-<a href="https://github.com/your/repo2">CSE 206 Digital Logic Design</a>
+<a href="https://github.com/dhar-arpita/CSE-206-Data-Structure-and-Algorithm_II">CSE 208 DSA Part_II</a><\br>
+<a href="https://github.com/dhar-arpita/CSE-206-Digital-Logic-Design">CSE 206 Digital Logic Design</a><\br>
 
 
 <h2 id="l2t2">Level 2 Term 2</h2>
-<a href="https://github.com/your/repo2">CSE 210 Cpmputer Architecture</a>
-<a href="https://github.com/your/repo2">CSE 214 Software Design</a>
-<a href="https://github.com/your/repo2">CSE 220 Signal</a>
-<a href="https://github.com/your/repo2">CSE 200 Technical Writing and Presentation</a>
+<a href="https://github.com/dhar-arpita/CSE-210-Computer-Architecture">CSE 210 Cpmputer Architecture</a><\br>
+<a href="https://github.com/dhar-arpita/CSE-214-Software-Sessional">CSE 214 Software Design</a><\br>
+<a href="https://github.com/dhar-arpita/CSE-220-Signal">CSE 220 Signal</a><\br>
+<a href="https://github.com/dhar-arpita/CSE-200-Technical-Writing-and-Presentation">CSE 200 Technical Writing and Presentation</a><\br>
 
 <h2 id="l3t1">Level 3 Term 1</h2>
-<a href="https://github.com/your/repo2">CSE 310 Compiler Sessional</a>
-<a href="https://github.com/your/repo2">CSE 314 Operating System</a>
-<a href="https://github.com/your/repo2">CSE 318 Artificial Intelligence</a>
-<a href="https://github.com/your/repo2">CSE 316 Micro_Project:E-clinic Assistant</a>
+<a href="https://github.com/dhar-arpita/CSE-310-Compiler-Sessional">CSE 310 Compiler Sessional</a><\br>
+<a href="https://github.com/dhar-arpita/CSE-314-Operating-System">CSE 314 Operating System</a><\br>
+<a href="https://github.com/dhar-arpita/CSE-318-Artificial-Intelligence">CSE 318 Artificial Intelligence</a><\br>
+<a href="https://github.com/dhar-arpita/CSE-316-Micro-Project-E-Clinic-Assistant">CSE 316 Micro_Project:E-clinic Assistant</a><\br>
 
 <h2 id="l3t2">Level 3 Term 2</h2>
 
